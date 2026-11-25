@@ -1,0 +1,11 @@
+{
+  "name": "topico-medico-v2",
+  "version": "2.0.0",
+  "description": "Sistema de Tópico Médico Institucional - Base de Datos Integrada SQLite",
+  "main": "main.js",
+  "author": "IESP Huanta",
+  "license": "ISC",
+  "scripts": {
+    "start": "electron ."
+  }
+}
